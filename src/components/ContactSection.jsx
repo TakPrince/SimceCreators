@@ -82,7 +82,7 @@ export const ContactSection = () => {
                                 <div style={{ display: 'grid', justifyItems: 'flex-start' }}>
                                     <h4 className="font-medium"> Phone</h4>
                                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                                        +19 7597395573
+                                        +91 7597395573
                                     </a>
                                 </div>
                             </div>
